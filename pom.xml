@@ -12,7 +12,7 @@
         <struts2.version>2.5.26</struts2.version>
         <log4j2.version>2.13.2</log4j2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>3.2.14.RELEASE</spring.version>
+        <spring.version>3.2.18.RELEASE</spring.version>
     </properties>
 
     <dependencies>
